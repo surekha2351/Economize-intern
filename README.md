@@ -1,12 +1,12 @@
 
-Economize Frontend Intern Assignment***
-
-Reference Image
+<h1>Economize Frontend Intern Assignment***</h1>
+</br>
+<h1>Reference Image:</h1><br/>
 <img src="https://res.cloudinary.com/drdjty87p/image/upload/v1704778490/Screenshot_2024-01-09_110014_t4iwmu.png">
 
 
 
-My project Output image: 
+<h1>My project Output image: </h1><br/>
 <img src = "https://res.cloudinary.com/drdjty87p/image/upload/v1704778491/Screenshot_2024-01-09_110336_fzbwjy.png">
 
 
@@ -81,9 +81,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-More installations:- 
-npm install react-router-dom
-npm install chart.js/auto react-chartjs-2 chart.js @faker-js/faker
-npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
-npm install @material-ui/core
+ <br/>
+<h2>More installations:-  </h2><br/>
+npm install react-router-dom <br/>
+npm install chart.js/auto react-chartjs-2 chart.js @faker-js/faker <br/>
+npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons <br/>
+npm install @material-ui/core <br/>
