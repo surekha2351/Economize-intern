@@ -87,6 +87,7 @@
   .dashboard__tab--action {
     height: 30px !important;
     cursor: pointer;
+    margin-top: 5px;
   }
 
   .dashboard__meter {
@@ -137,9 +138,9 @@
     border: none;
     border-radius: 20px;
     width:auto;
-    margin-right:18% ;
+    margin-right:15% ;
     padding: 10px;
-    font-size: 20px;
+    font-size: 15px;
     color: gray;
     font-weight: 500;
   }
