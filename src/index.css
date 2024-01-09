@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+html,
+body {
+  min-height: 100%;
+  font-family: "Inter", sans-serif;
+}
+
+:root {
+  --gray: #929fc0;
+  --light-gray: #f7f9ff;
+  --sec-gray: #e0e6f4;
+  --primary-color: #0083ff;
+  --dark-gray: #606e87;
+}

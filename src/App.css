@@ -1,0 +1,7 @@
+.app__body {
+  margin-left: 250px;
+  width: 100%;
+}
+.app {
+  display: flex;
+}
