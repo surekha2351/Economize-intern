@@ -14,6 +14,11 @@ const iR = 80;
 const oR = 100;
 const value = 130;
 
+
+
+
+
+
 // eslint-disable-next-line no-unused-vars
 const needle = (value, data, cx, cy, iR, oR, color) => {
   let total = 0;
