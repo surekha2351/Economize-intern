@@ -9,7 +9,8 @@
         "ignore": [
           "translate",
           "rotate",
-          "scroll-behavior"
+          "scroll-behavior",
+          "width: fit-content"
         ]
       }
     ],

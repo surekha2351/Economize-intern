@@ -27,6 +27,7 @@
 
   .MuiPaper-elevation1 {
     box-shadow: none !important;
+
   }
 
   .MuiTabs-flexContainer {
@@ -85,6 +86,7 @@
 
   .dashboard__tab--action {
     height: 30px !important;
+    cursor: pointer;
   }
 
   .dashboard__meter {
@@ -128,4 +130,16 @@
   .dashboard__meter--amount {
     font-weight: 800;
     font-size: 18px;
+  }
+.sub{
+    cursor: pointer;
+    background-color: aliceblue;
+    border: none;
+    border-radius: 20px;
+    width:auto;
+    margin-right:18% ;
+    padding: 10px;
+    font-size: 20px;
+    color: gray;
+    font-weight: 500;
   }

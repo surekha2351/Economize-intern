@@ -84,9 +84,9 @@ function Bottom() {
         >
          
           <TabList tabListProps={{ borderBottom: "2px solid red" }}>
-          <h2 style={{paddingLeft:"5%"}}>Automations</h2>
-          <h2 style={{paddingLeft:"25%"}}>Campaigns</h2>
-          <h2 style={{paddingLeft:"25%", paddingRight:"30px"}}>Segments</h2>
+          <h2 className="sub">Automations</h2>
+          <h2 className="sub">Campaigns</h2>
+          <h2 className="sub">Segments</h2>
             <button className="dashboard__action dashboard__tab--action">
               LastMonth
               <FontAwesomeIcon
